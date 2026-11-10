@@ -280,4 +280,4 @@ If your project is listed, you are welcome to add a badge: `[![Featured in Aweso
 
 ---
 
-From the maintainer of [Awesome REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything), a fact-checked list of what AI agents reverse-engineered and rebuilt.
+From the maintainer of [Awesome REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything), a fact-checked list of what AI agents reverse-engineered and rebuilt, and [Awesome Switch Recomp](https://github.com/AIshihzong/awesome-switch-recomp).

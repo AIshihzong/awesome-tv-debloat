@@ -280,4 +280,4 @@ VIDAA 是海信自研系统，和国内销售的基于 Android 的 VIDDA 不是�
 
 ---
 
-同一维护者还在整理 [Awesome REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/README.zh-CN.md)：大家用 AI 逆向、重建了什么，逐条核查。
+同一维护者还在整理 [Awesome REA](https://github.com/AIshihzong/awesome-reverse-engineer-anything/blob/main/README.zh-CN.md)：大家用 AI 逆向、重建了什么，逐条核查，以及 [Awesome Switch Recomp](https://github.com/AIshihzong/awesome-switch-recomp)（Switch 游戏原生移植清单）。
