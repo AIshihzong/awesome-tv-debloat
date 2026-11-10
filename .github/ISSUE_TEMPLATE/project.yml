@@ -1,0 +1,55 @@
+name: Project
+description: Suggest a TV project, or correct an entry / 推荐项目或纠错
+title: "[Project] "
+labels: ["project"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Repository link / 仓库链接
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: TV platform / 电视平台
+      options:
+        - Android TV / Google TV
+        - China-market Android TV (Xiaomi, TCL, ...) / 国产电视
+        - Amazon Fire TV
+        - LG webOS
+        - Samsung Tizen
+        - Hisense VIDAA
+        - Roku
+        - Any TV (DNS, YouTube, ...)
+    validations:
+      required: true
+  - type: dropdown
+    id: root
+    attributes:
+      label: Does it need root? / 要 root 吗
+      options:
+        - No / 不用
+        - LG or Samsung Developer Mode / 开发者模式
+        - Yes / 要
+    validations:
+      required: true
+  - type: input
+    id: undo
+    attributes:
+      label: Where does the README explain how to undo it? / README 里哪里写了怎么还原
+      description: A link or section name. Projects without an undo path are not listed.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: One line on what it does, or the correction / 一句话介绍，或纠错内容
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: It is open source and is not an IPTV playlist, paid-channel access, piracy add-on or APK mirror. / 开源，且不是直播源、付费频道破解、盗版插件或 APK 镜像。
+          required: true
