@@ -87,10 +87,10 @@ Sony, TCL, Hisense, Philips, Chromecast with Google TV, NVIDIA Shield, onn and o
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) 🤖 | 55.8k | No | 💻 Computer | ✅ | The one that started the wave. A coding agent finds your TV's bloat over Wi-Fi, asks before each change, and installs an Apple TV-style home screen. One-line restore. |
 | [TV Detox](https://github.com/Ansub/tv-detox) 🤖 | 2,305 | No | 💻 Computer | ✅ | Makes an old, slow Android TV fast again: Claude Code or Codex does the work, you press OK on the remote. Covered by Mashable and t3n. |
 | [Clean Your TV app](https://github.com/udhaykumarbala/cleanyourtv-app) | 1,915 | No | 📱 Phone | ✅ | CleanYourTV as an Android phone app: no laptop and no coding agent. Shows the plan before changing anything. |
-| [Tellyscope](https://github.com/man15h/tellyscope) | 1,823 | No | 📱 Phone | ✅ | 3 MB phone app: debloat, install APKs, move files. Every change goes into a history with Undo, plus a full Reset TV. Also Fire TV and Shield. |
+| [Tellyscope](https://github.com/man15h/tellyscope) | 1,825 | No | 📱 Phone | ✅ | 3 MB phone app: debloat, install APKs, move files. Every change goes into a history with Undo, plus a full Reset TV. Also Fire TV and Shield. |
 | [Android TV Toolkit](https://github.com/seun-novodev/android-tv-debloat-toolkit) | 813 | No | 💻 Computer | ⚠️ | Desktop GUI for TCL and Google TV debloat and APK installs. The author says it is no longer actively maintained. |
-| [tv-home](https://github.com/mihirgupta0900/tv-home) 🤖 | 758 | No | 💻 Computer | ✅ | One Claude Code prompt, or scripts by hand. On a 2 GB TCL Google TV it cut home-screen memory from 192 MB to 83 MB. |
-| [CleanMyTV](https://github.com/wingedpanther/cleanmytv) | 480 | No | 💻 Computer | ✅ | Free Mac and Windows app built on CleanYourTV's per-TV lists. No Python or `adb` to install, with a user guide and a known-devices table. |
+| [tv-home](https://github.com/mihirgupta0900/tv-home) 🤖 | 757 | No | 💻 Computer | ✅ | One Claude Code prompt, or scripts by hand. On a 2 GB TCL Google TV it cut home-screen memory from 192 MB to 83 MB. |
+| [CleanMyTV](https://github.com/wingedpanther/cleanmytv) | 481 | No | 💻 Computer | ✅ | Free Mac and Windows app built on CleanYourTV's per-TV lists. No Python or `adb` to install, with a user guide and a known-devices table. |
 | [tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) | 334 | No | 💻 Computer | ⚠️ | Built for aging parents: a direct-boot launcher, and the sponsored Netflix or Prime buttons on the remote remapped to HDMI. |
 | [Kit TV Android](https://github.com/xMazaki/unbloat-android-tv) | 302 | No | 💻 Computer | ✅ | Double-click app for Windows, Mac and Linux, in French and English. Has a Restore everything option. |
 | [Android TV Makeover](https://github.com/kulwantnagi/android-tv-makeover) 🤖 | 183 | No | 💻 Computer | ✅ | Debloat, an Apple TV-style launcher and a phone remote served by the TV itself. `PROMPT.md` walks a coding agent through it. |
@@ -109,12 +109,12 @@ Launchers only, without a debloat step. On many Google TVs the stock launcher ca
 
 | Project | ★ | Root | Set up from | Undo | What it does |
 | --- | ---: | --- | --- | :---: | --- |
-| [Tigris](https://github.com/lesnolie/Tigris) 🤖 | 644 | No | 📺 TV only · 💻 Computer | ✅ | tvOS 26-style dock, Top Shelf and Control Center. Chinese and English, with a webOS preview build. |
+| [Tigris](https://github.com/lesnolie/Tigris) 🤖 | 645 | No | 📺 TV only · 💻 Computer | ✅ | tvOS 26-style dock, Top Shelf and Control Center. Chinese and English, with a webOS preview build. |
 | [OmarchyTV](https://github.com/piermark/omarchytv) 🤖 | 514 | No | 💻 Computer | ⚠️ | Omarchy-styled launcher for Android TV, LG and Samsung, with a phone-as-gamepad arcade. Beta. |
+| [couch-tv](https://github.com/Seagey/couch-tv) 🤖 | 499 | No | 💻 Computer | ✅ | Home screen and phone remote for Google TV, Samsung and LG, with an optional Claude assistant. Read its 8 November note on restart loops. |
 | [TV Launcher](https://github.com/nielsvanvelzen/tv-launcher) | 499 | No | 📺 TV only | – | Early-stage launcher for big screens, from a Jellyfin Android TV developer. |
-| [couch-tv](https://github.com/Seagey/couch-tv) 🤖 | 497 | No | 💻 Computer | ✅ | Home screen and phone remote for Google TV, Samsung and LG, with an optional Claude assistant. Read its 8 November note on restart loops. |
 | [LTvLauncher](https://github.com/leanbitlab-org/LtvLauncher) | 469 | No | 📺 TV only | – | FLauncher fork for Android TV, Google TV and Fire TV: Continue Watching, input switching, OLED screensaver. |
-| [tvOS Launcher](https://github.com/techgenius1/tvOS-Launcher) | 398 | No | 📺 TV only | ✅ | About 30 MB of RAM and no background CPU. Runs CleanYourTV debloat profiles on the TV itself, no PC needed. |
+| [tvOS Launcher](https://github.com/techgenius1/tvOS-Launcher) | 399 | No | 📺 TV only | ✅ | About 30 MB of RAM and no background CPU. Runs CleanYourTV debloat profiles on the TV itself, no PC needed. |
 | [Plume](https://github.com/aradhyas8/Plume_Launcher) | 360 | No | 📺 TV only | ✅ | 0.4 MB, glass design, Continue Watching, 250+ aerial screensavers. Takes the Home button on Google TV where the launcher can't be replaced. |
 | [Luma](https://github.com/0xProbabillity/luma-tv) | 224 | No | 💻 Computer | ✅ | Calm, tvOS-inspired home over living wallpapers. `./luma.sh restore` undoes everything the installer changed. |
 | [Couchy Launcher](https://github.com/conreo/couchy-launcher) | 156 | No | 📺 TV only | ✅ | One-screen launcher that makes no network requests out of the box. English and Chinese. |
@@ -137,7 +137,7 @@ China-market firmware (PatchWall, TCL, Skyworth/Coocaa, Hisense VIDDA) ships mor
 | [tv-fresh](https://github.com/wangrongding/tv-fresh) 🤖 | 768 | No | 💻 Computer | ✅ | Xiaomi MIUI TV guide and agent skill: remove ads and preinstalls, switch to Projectivy. Uses `pm uninstall --user 0`, reversible with `install-existing`. |
 | [tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | 320 | No | 💻 Computer | ✅ | Ready-to-install Chinese build of the CleanYourTV launcher. No build step. |
 | [归藏电视](https://github.com/op7418/guizang-tv) | 299 | No | 📺 TV only | ✅ | Clean Xiaomi TV launcher with large text and direct HDMI shortcuts to consoles and Apple TV. |
-| [Quiet TV](https://github.com/BeatsAD/quiet-tv) | 256 | No | 📺 TV only · 💻 Computer | ✅ | Lightweight launcher and app manager for China-market TVs, with reversible slimming and a per-model test log. |
+| [Quiet TV](https://github.com/BeatsAD/quiet-tv) | 257 | No | 📺 TV only · 💻 Computer | ✅ | Lightweight launcher and app manager for China-market TVs, with reversible slimming and a per-model test log. |
 | [miTVhosts](https://github.com/liamliu108/miTVhosts) | 158 | No | 🌐 Router / DNS | ✅ | Hosts file for a Xiaomi router that blocks Mi TV ads and updates. Old (last change 2024) but still referenced. |
 | [GlassTV 玻璃桌面](https://github.com/jichun29/glasstv) 🤖 | 97 | No | 💻 Computer | ✅ | Glass launcher with flip-clock screensaver. Disables no system apps at all. |
 | [Android TV 调优工具箱](https://github.com/VictorTran1023/android-tv-toolkit) 🤖 | 89 | No | 💻 Computer | ✅ | Brand-by-brand ADB playbook for TCL, Xiaomi, Hisense, Skyworth, Changhong, Konka, XGIMI and Dangbei. Snapshot, one change at a time, `restore-all`. |
@@ -150,7 +150,7 @@ Fire OS protects Amazon's launcher as a system app, so without root you cannot d
 
 | Project | ★ | Root | Set up from | Undo | What it does |
 | --- | ---: | --- | --- | :---: | --- |
-| [dumbtv](https://github.com/humblemuzzu/dumbtv) 🤖 | 2,023 | No | 💻 Computer | ✅ | Takes ads, tracking and clutter out of a Fire TV over ADB and keeps your apps and HDMI inputs. One command undoes it. |
+| [dumbtv](https://github.com/humblemuzzu/dumbtv) 🤖 | 2,024 | No | 💻 Computer | ✅ | Takes ads, tracking and clutter out of a Fire TV over ADB and keeps your apps and HDMI inputs. One command undoes it. |
 | [Home on Fire](https://github.com/toolicious/home-on-fire) | 102 | No | 📺 TV only | – | Redirects the Home button to the launcher you choose, and opens it at boot. |
 | [Firestick Cleanup](https://github.com/niftiest/Firestick-Cleaner-And-Launcher-Replacer) | 77 | No | 💻 Computer | ✅ | Installs Projectivy Launcher and disables Amazon bloat in one automated run. |
 | [Homestead](https://github.com/Sarg338/Homestead) | 66 | No | 📺 TV only | ✅ | Replacement home and Home button for Fire TV. An on-device ADB tunnel means no computer is needed. |
@@ -164,7 +164,7 @@ These install through LG's official Developer Mode. The stock home screen stays;
 
 | Project | ★ | Root | Set up from | Undo | What it does |
 | --- | ---: | --- | --- | :---: | --- |
-| [Free My TV](https://github.com/simbasjungles/free-my-tv) | 6,227 | Dev Mode | 💻 Computer | ✅ | Fast, ad-free home for Google TV, LG and Samsung, built with Claude Code. Nothing uninstalled; one button brings the factory home back. |
+| [Free My TV](https://github.com/simbasjungles/free-my-tv) | 6,228 | Dev Mode | 💻 Computer | ✅ | Fast, ad-free home for Google TV, LG and Samsung, built with Claude Code. Nothing uninstalled; one button brings the factory home back. |
 | [webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | 376 | Dev Mode | 💻 Computer | ✅ | webOS port of the Apple TV-style launcher, tested on an LG OLED C6 (webOS 26). |
 | [Hearth](https://github.com/rudra-avatar/Hearth) | 355 | Dev Mode | 💻 Computer | ✅ | Calm home for webOS 3 to 26. Works as a normal app; on a rooted TV it can also be the boot screen and the Home button. |
 | [Clean Your TV for webOS](https://github.com/Razdva122/clean-your-tv-lg-webos) | 338 | Dev Mode | 💻 Computer | ✅ | Personal home with your apps and a dock, plus an on-TV Home helper. It says plainly that it does not remove ads from LG's other screens. |
@@ -185,7 +185,7 @@ Root lets a launcher really take over Home and lets you block LG's ad and ACR (w
 | [Homebrew Channel](https://github.com/webosbrew/webos-homebrew-channel) | 1,731 | **Yes** | 💻 Computer | – | The unofficial webOS app store and root tooling that most rooted-TV projects below build on. |
 | [dejavuln-autoroot](https://github.com/throwaway96/dejavuln-autoroot) | 851 | **Yes** | 💻 Computer | – | Roots webOS 3.5+ TVs. 2024 models and recent firmware for most webOS 5+ TVs are patched. |
 | [faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) | 515 | **Yes** | 💻 Computer | – | Roots webOS 4.0+ TVs and installs the Homebrew Channel. Check the supported-firmware notes first. |
-| [CleanYourTV for webOS](https://github.com/lasharor/cleanyourtv-WebOS) 🤖 | 480 | **Yes** | 💻 Computer | ✅ | Takes over Home with a RAM-only mount, so a reboot without it restores LG's own home. Optional ad and telemetry debloat. |
+| [CleanYourTV for webOS](https://github.com/lasharor/cleanyourtv-WebOS) 🤖 | 481 | **Yes** | 💻 Computer | ✅ | Takes over Home with a RAM-only mount, so a reboot without it restores LG's own home. Optional ad and telemetry debloat. |
 | [own-your-glass](https://github.com/JulioFerrero/own-your-glass) | 453 | **Yes** | 💻 Computer | ✅ | Hardening: disables the microphones and the remote's voice pipeline, plugs the screen-capture leak, blocks ad, telemetry and ACR endpoints. |
 | [Luma for webOS](https://github.com/ecklf/lg-luma) | 364 | **Yes** | 💻 Computer | ✅ | Native Apple TV-inspired launcher for rooted LG TVs. |
 | [Lumen](https://github.com/ammar027/lumen-webos) | 117 | **Yes** | 💻 Computer | ✅ | tvOS-style home tuned for weak TV GPUs, tested on a 1.5 GB webOS 22 set. |
@@ -217,7 +217,7 @@ VIDAA is Hisense's own OS (not the Android-based VIDDA sold in China).
 
 | Project | ★ | Root | Set up from | Undo | What it does |
 | --- | ---: | --- | --- | :---: | --- |
-| [Sidee](https://github.com/Empi9245/Sidee) | 80 | No | 💻 Computer | ⚠️ | Browser dashboard to add web-app tiles to VIDAA TVs. Starts with a double-click on Windows. |
+| [Sidee](https://github.com/Empi9245/Sidee) | 81 | No | 💻 Computer | ⚠️ | Browser dashboard to add web-app tiles to VIDAA TVs. Starts with a double-click on Windows. |
 | [alvidaa](https://github.com/carteakey/alvidaa) 🤖 | 53 | No | 💻 Computer | ✅ | Self-installing VIDAA launcher (no root, reversible), plus the first public root path for 2024+ VIDAA firmware. |
 <!-- END vidaa -->
 
@@ -242,7 +242,7 @@ Third-party YouTube clients and SponsorBlock add-ons. Signing in with your Googl
 | [SmartTube](https://github.com/yuliskov/SmartTube) | 36.2k | No | 📺 TV only | – | The best-known ad-free YouTube for Android TV and Fire TV. Read the maintainer's security notice at the top of its README first: some past builds may have been affected and the signing key was replaced. |
 | [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) | 7,039 | No | 💻 Computer | – | Self-hosted: connects to the official YouTube app on your TV and skips sponsor segments, and can mute ads and press Skip Ad for you. Nothing installed on the TV. |
 | [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt) | 3,533 | No | 📺 TV only | – | Ad blocking and SponsorBlock for Android TV, on Google's Cobalt runtime. |
-| [TizenTube](https://github.com/reisxd/TizenTube) | 2,493 | No | 💻 Computer | – | Removes ads and adds SponsorBlock on Samsung Tizen TVs, via TizenBrew or standalone. |
+| [TizenTube](https://github.com/reisxd/TizenTube) | 2,494 | No | 💻 Computer | – | Removes ads and adds SponsorBlock on Samsung Tizen TVs, via TizenBrew or standalone. |
 | [Playlet](https://github.com/iBicha/playlet) | 803 | No | 📺 TV only | – | Unofficial, privacy-focused YouTube client for Roku. |
 | [YouTube webOS Cobalt AdFree](https://github.com/RF1705/youtube-webos-cobalt-adfree) | 264 | Dev Mode | 💻 Computer | – | Cobalt-based YouTube for LG webOS with ad blocking and SponsorBlock. |
 <!-- END youtube -->

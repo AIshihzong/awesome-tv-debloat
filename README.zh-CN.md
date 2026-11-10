@@ -87,10 +87,10 @@
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) 🤖 | 55.8k | 不用 | 💻 电脑 | ✅ | 这一波的起点。让编程 Agent 通过 Wi-Fi 找出电视上的预装垃圾，每一步都先问你，再装一个 Apple TV 风格的桌面。一行命令就能还原。 |
 | [TV Detox](https://github.com/Ansub/tv-detox) 🤖 | 2,305 | 不用 | 💻 电脑 | ✅ | 让老旧卡顿的 Android TV 重新变快：Claude Code 或 Codex 干活，你只需按遥控器的确认键。Mashable、t3n 报道过。 |
 | [Clean Your TV app](https://github.com/udhaykumarbala/cleanyourtv-app) | 1,915 | 不用 | 📱 手机 | ✅ | CleanYourTV 的安卓手机版，不用电脑也不用 Agent。动手前会先列出计划。 |
-| [Tellyscope](https://github.com/man15h/tellyscope) | 1,823 | 不用 | 📱 手机 | ✅ | 3 MB 的手机应用：精简、装 APK、传文件。每次改动都记进历史，可以逐条撤销，也能一键恢复出厂状态。支持 Fire TV 和 Shield。 |
+| [Tellyscope](https://github.com/man15h/tellyscope) | 1,825 | 不用 | 📱 手机 | ✅ | 3 MB 的手机应用：精简、装 APK、传文件。每次改动都记进历史，可以逐条撤销，也能一键恢复出厂状态。支持 Fire TV 和 Shield。 |
 | [Android TV Toolkit](https://github.com/seun-novodev/android-tv-debloat-toolkit) | 813 | 不用 | 💻 电脑 | ⚠️ | 桌面图形界面，针对 TCL 和 Google TV 精简和装 APK。作者说明已不再积极维护。 |
-| [tv-home](https://github.com/mihirgupta0900/tv-home) 🤖 | 758 | 不用 | 💻 电脑 | ✅ | 一段 Claude Code 提示词，或者手动跑脚本。在一台 2 GB 的 TCL Google TV 上，桌面内存从 192 MB 降到 83 MB。 |
-| [CleanMyTV](https://github.com/wingedpanther/cleanmytv) | 480 | 不用 | 💻 电脑 | ✅ | 免费的 Mac 和 Windows 应用，用的是 CleanYourTV 的分机型清单。不用装 Python 或 `adb`，附用户指南和已验证机型表。 |
+| [tv-home](https://github.com/mihirgupta0900/tv-home) 🤖 | 757 | 不用 | 💻 电脑 | ✅ | 一段 Claude Code 提示词，或者手动跑脚本。在一台 2 GB 的 TCL Google TV 上，桌面内存从 192 MB 降到 83 MB。 |
+| [CleanMyTV](https://github.com/wingedpanther/cleanmytv) | 481 | 不用 | 💻 电脑 | ✅ | 免费的 Mac 和 Windows 应用，用的是 CleanYourTV 的分机型清单。不用装 Python 或 `adb`，附用户指南和已验证机型表。 |
 | [tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) | 334 | 不用 | 💻 电脑 | ⚠️ | 为家里老人做的：开机直达桌面，遥控器上的 Netflix、Prime 广告键改成切换 HDMI。 |
 | [Kit TV Android](https://github.com/xMazaki/unbloat-android-tv) | 302 | 不用 | 💻 电脑 | ✅ | Windows、Mac、Linux 双击即用，法语和英语文档，有“全部还原”选项。 |
 | [Android TV Makeover](https://github.com/kulwantnagi/android-tv-makeover) 🤖 | 183 | 不用 | 💻 电脑 | ✅ | 精简、Apple TV 风格桌面，外加一个由电视自己提供的手机遥控网页。`PROMPT.md` 带着 Agent 一步步做。 |
@@ -109,12 +109,12 @@
 
 | 项目 | ★ | 需 root | 在哪操作 | 可还原 | 说明 |
 | --- | ---: | --- | --- | :---: | --- |
-| [Tigris](https://github.com/lesnolie/Tigris) 🤖 | 644 | 不用 | 📺 只用电视 · 💻 电脑 | ✅ | tvOS 26 风格的 Dock、Top Shelf 和控制中心。中英双语，还有 webOS 预览版。 |
+| [Tigris](https://github.com/lesnolie/Tigris) 🤖 | 645 | 不用 | 📺 只用电视 · 💻 电脑 | ✅ | tvOS 26 风格的 Dock、Top Shelf 和控制中心。中英双语，还有 webOS 预览版。 |
 | [OmarchyTV](https://github.com/piermark/omarchytv) 🤖 | 514 | 不用 | 💻 电脑 | ⚠️ | Omarchy 风格的桌面，支持 Android TV、LG 和三星，手机可当手柄玩小游戏。测试版。 |
+| [couch-tv](https://github.com/Seagey/couch-tv) 🤖 | 499 | 不用 | 💻 电脑 | ✅ | Google TV、三星和 LG 的桌面和手机遥控器，可选接入 Claude 助手。注意看它 11 月 8 日关于重启循环的说明。 |
 | [TV Launcher](https://github.com/nielsvanvelzen/tv-launcher) | 499 | 不用 | 📺 只用电视 | – | 早期阶段的大屏桌面，作者是 Jellyfin Android TV 的开发者。 |
-| [couch-tv](https://github.com/Seagey/couch-tv) 🤖 | 497 | 不用 | 💻 电脑 | ✅ | Google TV、三星和 LG 的桌面和手机遥控器，可选接入 Claude 助手。注意看它 11 月 8 日关于重启循环的说明。 |
 | [LTvLauncher](https://github.com/leanbitlab-org/LtvLauncher) | 469 | 不用 | 📺 只用电视 | – | FLauncher 的分支，支持 Android TV、Google TV 和 Fire TV：继续观看、信号源切换、OLED 屏保。 |
-| [tvOS Launcher](https://github.com/techgenius1/tvOS-Launcher) | 398 | 不用 | 📺 只用电视 | ✅ | 约 30 MB 内存，后台零 CPU。能在电视上直接跑 CleanYourTV 的精简配置，不用电脑。 |
+| [tvOS Launcher](https://github.com/techgenius1/tvOS-Launcher) | 399 | 不用 | 📺 只用电视 | ✅ | 约 30 MB 内存，后台零 CPU。能在电视上直接跑 CleanYourTV 的精简配置，不用电脑。 |
 | [Plume](https://github.com/aradhyas8/Plume_Launcher) | 360 | 不用 | 📺 只用电视 | ✅ | 0.4 MB，玻璃风格，有“继续观看”和 250 多段航拍屏保。在无法替换桌面的 Google TV 上也能接管 Home 键。 |
 | [Luma](https://github.com/0xProbabillity/luma-tv) | 224 | 不用 | 💻 电脑 | ✅ | 安静的 tvOS 风格桌面，配动态壁纸。`./luma.sh restore` 能撤销安装时的全部改动。 |
 | [Couchy Launcher](https://github.com/conreo/couchy-launcher) | 156 | 不用 | 📺 只用电视 | ✅ | 单屏桌面，默认不发任何网络请求。中英双语。 |
@@ -137,7 +137,7 @@
 | [tv-fresh](https://github.com/wangrongding/tv-fresh) 🤖 | 768 | 不用 | 💻 电脑 | ✅ | 小米电视（MIUI TV）攻略加 Agent 技能：去广告、清预装、换 Projectivy 桌面。用 `pm uninstall --user 0`，可用 `install-existing` 还原。 |
 | [tvhome-zh](https://github.com/mclhm8182/tvhome-zh) | 320 | 不用 | 💻 电脑 | ✅ | CleanYourTV 桌面的中文现成安装包，不用自己编译。 |
 | [归藏电视](https://github.com/op7418/guizang-tv) | 299 | 不用 | 📺 只用电视 | ✅ | 给小米电视做的简洁桌面，大字号，一键直达游戏机和 Apple TV 的 HDMI 入口。 |
-| [Quiet TV](https://github.com/BeatsAD/quiet-tv) | 256 | 不用 | 📺 只用电视 · 💻 电脑 | ✅ | 面向国产电视的轻量桌面和应用管理，可恢复的精简，附机型验证记录。 |
+| [Quiet TV](https://github.com/BeatsAD/quiet-tv) | 257 | 不用 | 📺 只用电视 · 💻 电脑 | ✅ | 面向国产电视的轻量桌面和应用管理，可恢复的精简，附机型验证记录。 |
 | [miTVhosts](https://github.com/liamliu108/miTVhosts) | 158 | 不用 | 🌐 路由器 / DNS | ✅ | 用于小米路由器的 hosts，屏蔽小米电视广告和升级。较老（2024 年后未更新），仍常被引用。 |
 | [GlassTV 玻璃桌面](https://github.com/jichun29/glasstv) 🤖 | 97 | 不用 | 💻 电脑 | ✅ | 玻璃桌面加翻页时钟屏保，完全不停用系统应用。 |
 | [Android TV 调优工具箱](https://github.com/VictorTran1023/android-tv-toolkit) 🤖 | 89 | 不用 | 💻 电脑 | ✅ | 分品牌的 ADB 调试流程，覆盖 TCL、小米、海信、创维、长虹、康佳、极米、当贝。先快照，一次改一条，`restore-all` 一键回滚。 |
@@ -150,7 +150,7 @@ Fire OS 把亚马逊桌面设为受保护的系统应用，不 root 无法停用
 
 | 项目 | ★ | 需 root | 在哪操作 | 可还原 | 说明 |
 | --- | ---: | --- | --- | :---: | --- |
-| [dumbtv](https://github.com/humblemuzzu/dumbtv) 🤖 | 2,023 | 不用 | 💻 电脑 | ✅ | 通过 ADB 去掉 Fire TV 的广告、追踪和杂乱内容，保留你的应用和 HDMI 输入。一条命令就能撤销。 |
+| [dumbtv](https://github.com/humblemuzzu/dumbtv) 🤖 | 2,024 | 不用 | 💻 电脑 | ✅ | 通过 ADB 去掉 Fire TV 的广告、追踪和杂乱内容，保留你的应用和 HDMI 输入。一条命令就能撤销。 |
 | [Home on Fire](https://github.com/toolicious/home-on-fire) | 102 | 不用 | 📺 只用电视 | – | 把 Home 键重定向到你选的桌面，开机直接进入。 |
 | [Firestick Cleanup](https://github.com/niftiest/Firestick-Cleaner-And-Launcher-Replacer) | 77 | 不用 | 💻 电脑 | ✅ | 一次自动装好 Projectivy 桌面并停用亚马逊预装。 |
 | [Homestead](https://github.com/Sarg338/Homestead) | 66 | 不用 | 📺 只用电视 | ✅ | Fire TV 的替代桌面，同时接管 Home 键。用电视自带的 ADB 通道，不需要电脑。 |
@@ -164,7 +164,7 @@ Fire OS 把亚马逊桌面设为受保护的系统应用，不 root 无法停用
 
 | 项目 | ★ | 需 root | 在哪操作 | 可还原 | 说明 |
 | --- | ---: | --- | --- | :---: | --- |
-| [Free My TV](https://github.com/simbasjungles/free-my-tv) | 6,227 | 开发者模式 | 💻 电脑 | ✅ | 用 Claude Code 做的快速无广告桌面，支持 Google TV、LG 和三星。不卸载任何东西，一个按钮恢复原厂桌面。 |
+| [Free My TV](https://github.com/simbasjungles/free-my-tv) | 6,228 | 开发者模式 | 💻 电脑 | ✅ | 用 Claude Code 做的快速无广告桌面，支持 Google TV、LG 和三星。不卸载任何东西，一个按钮恢复原厂桌面。 |
 | [webos-vibehack](https://github.com/OmkarK97/webos-vibehack) | 376 | 开发者模式 | 💻 电脑 | ✅ | Apple TV 风格桌面的 webOS 移植版，在 LG OLED C6（webOS 26）上测试过。 |
 | [Hearth](https://github.com/rudra-avatar/Hearth) | 355 | 开发者模式 | 💻 电脑 | ✅ | 适用 webOS 3 到 26 的安静桌面。平时作为普通应用运行；在已 root 的电视上还能作为开机界面并接管 Home 键。 |
 | [Clean Your TV for webOS](https://github.com/Razdva122/clean-your-tv-lg-webos) | 338 | 开发者模式 | 💻 电脑 | ✅ | 自定义桌面加 Dock，带电视端 Home 键辅助。它明确说明不会去掉 LG 其他界面里的广告。 |
@@ -185,7 +185,7 @@ root 之后，新桌面才能真正接管 Home 键，也能屏蔽 LG 的广告�
 | [Homebrew Channel](https://github.com/webosbrew/webos-homebrew-channel) | 1,731 | **要** | 💻 电脑 | – | 非官方 webOS 应用商店和 root 工具，下面大多数 root 项目都基于它。 |
 | [dejavuln-autoroot](https://github.com/throwaway96/dejavuln-autoroot) | 851 | **要** | 💻 电脑 | – | root webOS 3.5 以上的电视。2024 款机型和大部分 webOS 5 以上机型的新固件已经修补。 |
 | [faultmanager-autoroot](https://github.com/throwaway96/faultmanager-autoroot) | 515 | **要** | 💻 电脑 | – | root webOS 4.0 以上的电视并装好 Homebrew Channel。先看支持的固件说明。 |
-| [CleanYourTV for webOS](https://github.com/lasharor/cleanyourtv-WebOS) 🤖 | 480 | **要** | 💻 电脑 | ✅ | 用只存在于内存的挂载接管 Home 键，重启后不启用它就回到 LG 原厂桌面。可选去广告和遥测。 |
+| [CleanYourTV for webOS](https://github.com/lasharor/cleanyourtv-WebOS) 🤖 | 481 | **要** | 💻 电脑 | ✅ | 用只存在于内存的挂载接管 Home 键，重启后不启用它就回到 LG 原厂桌面。可选去广告和遥测。 |
 | [own-your-glass](https://github.com/JulioFerrero/own-your-glass) | 453 | **要** | 💻 电脑 | ✅ | 安全加固：关闭麦克风和遥控器语音链路，堵住屏幕截取泄露，屏蔽广告、遥测和 ACR 地址。 |
 | [Luma for webOS](https://github.com/ecklf/lg-luma) | 364 | **要** | 💻 电脑 | ✅ | 已 root 的 LG 电视用的原生 Apple TV 风格桌面。 |
 | [Lumen](https://github.com/ammar027/lumen-webos) | 117 | **要** | 💻 电脑 | ✅ | 针对弱显卡优化的 tvOS 风格桌面，在 1.5 GB 内存的 webOS 22 电视上测试过。 |
@@ -217,7 +217,7 @@ VIDAA 是海信自研系统，和国内销售的基于 Android 的 VIDDA 不是�
 
 | 项目 | ★ | 需 root | 在哪操作 | 可还原 | 说明 |
 | --- | ---: | --- | --- | :---: | --- |
-| [Sidee](https://github.com/Empi9245/Sidee) | 80 | 不用 | 💻 电脑 | ⚠️ | 浏览器面板，给 VIDAA 电视添加网页应用图标。Windows 上双击即可启动。 |
+| [Sidee](https://github.com/Empi9245/Sidee) | 81 | 不用 | 💻 电脑 | ⚠️ | 浏览器面板，给 VIDAA 电视添加网页应用图标。Windows 上双击即可启动。 |
 | [alvidaa](https://github.com/carteakey/alvidaa) 🤖 | 53 | 不用 | 💻 电脑 | ✅ | VIDAA 自安装桌面（不 root、可还原），还有首个公开的 2024 年后 VIDAA 固件 root 方法。 |
 <!-- END vidaa -->
 
@@ -242,7 +242,7 @@ VIDAA 是海信自研系统，和国内销售的基于 Android 的 VIDDA 不是�
 | [SmartTube](https://github.com/yuliskov/SmartTube) | 36.2k | 不用 | 📺 只用电视 | – | 最有名的 Android TV、Fire TV 无广告 YouTube 客户端。安装前先看 README 顶部作者的安全公告：过去有几个版本可能受影响，签名密钥已更换。 |
 | [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) | 7,039 | 不用 | 💻 电脑 | – | 自托管：连接电视上的官方 YouTube 应用，自动跳过赞助片段，还能给广告静音并自动点“跳过广告”。电视上什么都不用装。 |
 | [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt) | 3,533 | 不用 | 📺 只用电视 | – | 基于谷歌 Cobalt 运行时，给 Android TV 去广告、加 SponsorBlock。 |
-| [TizenTube](https://github.com/reisxd/TizenTube) | 2,493 | 不用 | 💻 电脑 | – | 三星 Tizen 电视上去广告并加 SponsorBlock，可通过 TizenBrew 或单独安装。 |
+| [TizenTube](https://github.com/reisxd/TizenTube) | 2,494 | 不用 | 💻 电脑 | – | 三星 Tizen 电视上去广告并加 SponsorBlock，可通过 TizenBrew 或单独安装。 |
 | [Playlet](https://github.com/iBicha/playlet) | 803 | 不用 | 📺 只用电视 | – | Roku 上的非官方、注重隐私的 YouTube 客户端。 |
 | [YouTube webOS Cobalt AdFree](https://github.com/RF1705/youtube-webos-cobalt-adfree) | 264 | 开发者模式 | 💻 电脑 | – | 基于 Cobalt 的 LG webOS 版 YouTube，带去广告和 SponsorBlock。 |
 <!-- END youtube -->
